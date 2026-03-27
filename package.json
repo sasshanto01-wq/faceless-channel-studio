@@ -1,0 +1,30 @@
+{
+  "name": "faceless-channel-studio",
+  "version": "1.0.0",
+  "description": "AI-powered studio for building viral faceless YouTube channels",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000 -c-1 --cors",
+    "dev": "npx http-server -p 3000 -c-1 --cors -o",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "youtube",
+    "faceless",
+    "ai",
+    "channel",
+    "studio",
+    "claude",
+    "automation"
+  ],
+  "author": "sasshanto01-wq",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasshanto01-wq/faceless-channel-studio.git"
+  },
+  "homepage": "https://sasshanto01-wq.github.io/faceless-channel-studio/"
+}
