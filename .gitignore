@@ -8,9 +8,6 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
-# GitHub Pages
-.github/
-
 # OS
 .DS_Store
 Thumbs.db
