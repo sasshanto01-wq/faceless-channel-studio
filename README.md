@@ -1,6 +1,9 @@
 # Faceless Channel Studio — AI Powered
 
-An interactive web tool for building viral YouTube faceless channels. Complete 9-step system from niche selection to monetization, powered by Claude AI.
+[![GitHub Pages](https://github.com/sasshanto01-wq/faceless-channel-studio/actions/workflows/deploy.yml/badge.svg)](https://github.com/sasshanto01-wq/faceless-channel-studio/actions/workflows/deploy.yml)
+[![Live Site](https://img.shields.io/badge/Live%20Site-sasshanto01--wq.github.io%2Ffaceless-channel-studio-brightgreen)](https://sasshanto01-wq.github.io/faceless-channel-studio/)
+
+An interactive web tool for building viral faceless YouTube channels. Complete 9-step system from niche selection to monetization, powered by Claude AI.
 
 ## 🚀 Features
 
